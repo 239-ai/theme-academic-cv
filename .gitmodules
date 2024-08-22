@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/239-ai/239-ai.github.io.git
+	branch = main
